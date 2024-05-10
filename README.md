@@ -1,6 +1,6 @@
 # [Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/)
 
-Hand-on prompt implementations for image segmentation, generation, and object detection using SAM and Diffusion Models
+Hands-on implementations for object segmentation, generation and detection using SAM and diffusion models
 
 ## Course overview
 
